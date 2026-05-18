@@ -11,7 +11,7 @@ This repository contains selected visual outputs videos from the project.
 This video demonstrates interactive slicing through the generated 3D volume in Napari. It shows how the grayscale volume, labels, and fibre connections can be inspected layer by layer.
 
 <video src="https://github.com/user-attachments/assets/239c56ef-301c-4f63-ae20-e4847147abab" controls width="100%"></video>
-
+<video src="https://github.com/user-attachments/assets/6497f3c5-ae06-443b-bac9-a16bd101e677" controls width="100%"></video>
 ### Blender Fibre Generation
 
 This video demonstrates the Blender-side generation process, where fibre chains are simulated, compressed, and converted into intertwined 3D structures.
