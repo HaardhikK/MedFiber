@@ -1,6 +1,6 @@
 # MedFiber: Synthetic 3D Fibre Segmentation Workbench
 
-VoluFiber is a synthetic biomedical imaging project for generating, inspecting, segmenting and evaluating dense 3D fibre volumes. The main goal was to create controllable labelled data for fibre segmentation research, especially for cases where real biomedical volumes are difficult to obtain, expensive to annotate, or not available with voxel-level ground truth.
+MedFiber is a synthetic biomedical imaging project for generating, inspecting, segmenting and evaluating dense 3D fibre volumes. The main goal was to create controllable labelled data for fibre segmentation research, especially for cases where real biomedical volumes are difficult to obtain, expensive to annotate, or not available with voxel-level ground truth.
 Since the ground truth is known exactly, it can be used to test segmentation ideas, debug failure modes, and evaluate how well algorithms handle dense 3D fibre structures before moving toward real biomedical data.
 This repository contains selected visual outputs videos from the project.
 
